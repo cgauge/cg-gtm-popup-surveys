@@ -2,5 +2,5 @@ homepage: "https://www.customergauge.com/"
 documentation: "https://support.customergauge.com/support/solutions/articles/5000878643-survey-suite-pop-up-surveys"
 versions:
   # Latest version
-  - sha: 
+  - sha: 3c93c47ada971a219003199e99836809c92c2d0c
     changeNotes: Initial release.
